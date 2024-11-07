@@ -1,0 +1,82 @@
+{
+    "name": "Gustavo Alves",
+    "profilePictureUrl": "images/pictures/avatar.jpeg",
+
+    "locales": {
+        "en": {
+            "role": "Software Developer"
+        },
+
+        "es": {
+            "role": "Programador"
+        },
+        "fr": {
+            "role": "Programmeur"
+        },
+        "zh": {
+            "role": "程序员"
+        },
+        
+        "pt":{
+            "role": "Software Developer"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "São Paulo, SP - Brazil",
+            "valueShort": "São Paulo - Brazil",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "alvesgustavo0809@gmail.com",
+            "valueShort": "alvesgustavo0809@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:alvesgustavo0809@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Jonas Einstein",
+            "valueShort": "J. Einstein",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@Gustavo-Alves-Araujo",
+            "valueShort": "@Gustavo-Alves-Araujo",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/Gustavo-Alves-Araujo"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@alves.gustavo_",
+            "valueShort": "@alves.gustavo_",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/alves.gustavo_"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@Gustavo Alves",
+            "valueShort": "@Gustavo Alves",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/gustavo-alves-3766a5269/"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+55 11 98320-7820",
+            "valueShort": "+55 11 98320-7820",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:5511983207820"
+        }
+    }
+}

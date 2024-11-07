@@ -1,0 +1,116 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/maxvet.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Max Vet Hospital Veterinário"
+            }
+        }
+    },
+    "apple": {
+        "logoUrl": "images/places/agrosn.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {
+                "name": "Agro Sn"
+            }
+        }
+    },
+    "coursera": {
+        "logoUrl": "images/places/axo.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Axolutions"
+            }
+        }
+    },
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {
+                "name": "Forbes"
+            }
+        }
+    },
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {
+                "name": "Google"
+            }
+        }
+    },
+    "harvard": {
+        "logoUrl": "images/places/logo-harvard.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {
+                "name": "Harvard University"
+            },
+            "es": {
+                "name": "Universidad de Harvard"
+            },
+            "fr": {
+                "name": "Université Harvard"
+            },
+            "zh": {
+                "name": "哈佛大学"
+            }
+        }
+    },
+    "paris": {
+        "logoUrl": "images/places/image.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "pt": {
+                "name": "Universidade Federal do ABC"
+            },
+            "en": {
+                "name": "Federal University of ABC"
+            },
+            "es": {
+                "name": "Universidad Federal de ABC"
+            },
+            "fr": {
+                "name": "Université Fédérale d'ABC"
+            },
+            "zh": {
+                "name": "ABC联邦大学"
+            }
+        }
+    },
+    "udacity": {
+        "logoUrl": "images/places/etec.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {
+                "name": "Escola Técnica Estadual de São Paulo"
+            },
+            "en": {
+                "name": "São Paulo State Technical School"
+            },
+            "es": {
+                "name": "Escuela Técnica Estatal de São Paulo"
+            },
+            "fr": {
+                "name": "École Technique d'État de São Paulo"
+            },
+            "zh": {
+                "name": "圣保罗州立技术学校"
+            }
+        }
+    },
+    "uxStudio": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "UX Masters Studio"
+            }
+        }
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+        "es": {
+            "title": "<span class='text-primary'>Experiencia</span> Profesional",
+            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
+        },
+        "fr": {
+            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
+        },
+        "zh": {
+            "title": "<span class='text-primary'>专业</span> 经验",
+            "description": "了解我的工作经验和职业之旅。"
+        },
+        "pt": {
+            "title": "<span class='text-primary'>Experiência</span> Profissional",
+            "description": "Minhas jornada e experiẽncias profissionais."
+        }
+    },
+    "items": [
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.adobe}",
+            "period": [
+                "2023/01",
+                "2023/10"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Administrator",
+                    "description": "Administrator of Max Vet veterinary hospitals. Managed teams and new projects, directly responsible for process automation across the three units, and in charge of decision-making in various company departments such as accounting, finance, HR, marketing, and social media.",
+                    "tags": [
+                        "Pyton",
+                        "SQL",
+                        "Microsoft Excel",
+                        "Microsoft Power BI",
+                        "Project Management"
+                    ]
+                },
+                "es": {
+                    "title": "Administrador",
+                    "description": "Administrador de los hospitales veterinarios de la red Max Vet. Gestor de equipos y de nuevos proyectos, responsable directo de la automatización de procesos en las tres unidades, encargado de la toma de decisiones en varios sectores de la empresa, como contabilidad, finanzas, RRHH, marketing y redes sociales.",
+                    "tags": [
+                        "Pyton",
+                        "SQL",
+                        "Microsoft Excel",
+                        "Microsoft Power BI",
+                        "Gestión de proyectos"
+                    ]
+                },
+                "fr": {
+                    "title": "Administrateur",
+                    "description": "Administrateur des hôpitaux vétérinaires du réseau Max Vet. Responsable de la gestion des équipes et de nouveaux projets, il était directement chargé de l'automatisation des processus dans les trois unités et de la prise de décision dans divers départements de l'entreprise, tels que la comptabilité, les finances, les ressources humaines, le marketing et les réseaux sociaux.",
+                    "tags": [
+                        "Pyton",
+                        "SQL",
+                        "Microsoft Excel",
+                        "Microsoft Power BI",
+                        "Gestion de projets"
+                    ]
+                },
+                "zh": {
+                    "title": "管理员",
+                    "description": "Max Vet兽医医院的管理员。负责团队管理和新项目，直接负责三家单位的流程自动化，并负责公司多个部门（如会计、财务、人力资源、市场营销和社交媒体）的决策。",
+                    "tags": [
+                        "Pyton",
+                        "SQL",
+                        "Microsoft Excel",
+                        "Microsoft Power BI",
+                        "项目管理"
+                    ]
+                },
+                "pt": {
+                    "title": "Administrador",
+                    "description": "Administrador dos hospitais veterinários da rede Max Vet. Gestor de equipe e de novos projetos, fui responsável direto pela automação de processos dentro das três unidades e encarregado da tomada de decisões em diversos setores da empresa, como contábil, financeiro, RH, marketing e social media.",
+                    "tags": [
+                        "Pyton",
+                        "SQL",
+                        "Microsoft Excel",
+                        "Microsoft Power BI",
+                        "Gestão de projetos"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.apple}",
+            "period": [
+                "2024/06",
+                "now"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Full-Stack Developer",
+                    "description": "I work as a freelance developer for AgroSn, responsible for creating a complete ERP focused on the intermediation of agribusiness products. I use Vue.js on the front-end and Ruby on Rails on the back-end, developing intuitive and responsive interfaces, RESTful APIs, and integrating with SEFAZ for issuing NF-e. My role spans from conception to implementation of solutions that optimize system operations, such as automatic report generation and inventory management.",
+                    "tags": [
+                        "Ruby",
+                        "Rails",
+                        "Vue",
+                        "Tailwind",
+                        "PostgreSQL"
+                    ]
+                },
+                "es": {
+                    "title": "Desarrollador Full-Stack",
+                    "description": "Trabajo como desarrollador freelance para AgroSn, siendo responsable de la creación de un ERP completo enfocado en la intermediación de productos agroindustriales. Utilizo Vue.js en el front-end y Ruby on Rails en el back-end, desarrollando interfaces intuitivas y responsivas, APIs RESTful e integración con SEFAZ para la emisión de NF-e. Mi rol abarca desde la concepción hasta la implementación de soluciones que optimizan las operaciones del sistema, como la generación automática de informes y la gestión de inventarios.",
+                    "tags": [
+                        "Ruby",
+                        "Rails",
+                        "Vue",
+                        "Tailwind",
+                        "PostgreSQL"
+                    ]
+                },
+                "fr": {
+                    "title": "Développeur Full-Stack",
+                    "description": "Je travaille en tant que développeur freelance pour AgroSn, étant responsable de la création d'un ERP complet axé sur l'intermédiation des produits agroalimentaires. J'utilise Vue.js pour le front-end et Ruby on Rails pour le back-end, développant des interfaces intuitives et réactives, des API RESTful et une intégration avec SEFAZ pour l'émission de NF-e. Mon rôle couvre de la conception à la mise en œuvre de solutions qui optimisent les opérations du système, telles que la génération automatique de rapports et la gestion des stocks.",
+                    "tags": [
+                        "Ruby",
+                        "Rails",
+                        "Vue",
+                        "Tailwind",
+                        "PostgreSQL"
+                    ]
+                },
+                "zh": {
+                    "title": "全栈开发人员",
+                    "description": "我作为AgroSn的自由开发人员，负责创建一个专注于农产品中介的完整ERP系统。我在前端使用Vue.js，后端使用Ruby on Rails，开发直观响应的界面、RESTful API，并与SEFAZ集成以生成NF-e。我的工作范围从解决方案的构思到实施，优化了系统操作，如自动报告生成和库存管理。",
+                    "tags": [
+                        "Ruby",
+                        "Rails",
+                        "Vue",
+                        "Tailwind",
+                        "PostgreSQL"
+                    ]
+                },
+                "pt": {
+                    "title": "Desenvolvedor Full-Stack",
+                    "description": "Atuo como desenvolvedor terceirizado para a AgroSn, sendo responsável pela criação de um ERP completo voltado para a intermediação de produtos do agronegócio. Utilizo Vue.js no front-end e Ruby on Rails no back-end, trabalhando na criação de interfaces intuitivas e responsivas, APIs RESTful e integração com a SEFAZ para a geração de NF-e. Minha atuação abrange desde a concepção até a implementação de soluções que otimizam as operações do sistema, como geração automática de relatórios e gestão de inventário.",
+                    "tags": [
+                        "Ruby",
+                        "Rails",
+                        "Vue",
+                        "Tailwind",
+                        "PostgreSQL"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.coursera}",
+            "period": [
+                "2023/01",
+                "now"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Founder and Full-Stack Developer",
+                    "description": "In January 2023, I founded Axolutions, a consulting company specialized in software development and large-scale project solutions. Over the last two years, I have worked as a full-stack developer, with experience in omnichannel customer service systems, enterprise management software, E-Commerce, payment integrations, and artificial intelligence applications.",
+                    "tags": [
+                        "A.I",
+                        "Vue",
+                        "Nuxt",
+                        "Ruby on Rails",
+                        "React",
+                        "Node",
+                        "TypeScript",
+                        "Amazon Web Services"
+                    ]
+                },
+                "es": {
+                    "title": "Fundador y Desarrollador Full-Stack",
+                    "description": "En enero de 2023, fundé Axolutions, una consultoría especializada en desarrollo de software y soluciones para proyectos a gran escala. Durante los últimos dos años, he trabajado como desarrollador full-stack, con experiencia en sistemas de atención al cliente omnicanal, software de gestión empresarial, E-Commerce, integraciones de pagos y aplicaciones de inteligencia artificial.",
+                    "tags": [
+                        "A.I",
+                        "Vue",
+                        "Nuxt",
+                        "Ruby on Rails",
+                        "React",
+                        "Node",
+                        "TypeScript",
+                        "Amazon Web Services"
+                    ]
+                },
+                "fr": {
+                    "title": "Fondateur et Développeur Full-Stack",
+                    "description": "En janvier 2023, j'ai fondé Axolutions, une société de conseil spécialisée dans le développement de logiciels et les solutions pour des projets à grande échelle. Au cours des deux dernières années, j'ai travaillé en tant que développeur full-stack, avec une expertise dans les systèmes de service client omnicanal, les logiciels de gestion d'entreprise, le commerce électronique, les intégrations de paiements et les applications d'intelligence artificielle.",
+                    "tags": [
+                        "A.I",
+                        "Vue",
+                        "Nuxt",
+                        "Ruby on Rails",
+                        "React",
+                        "Node",
+                        "TypeScript",
+                        "Amazon Web Services"
+                    ]
+                },
+                "zh": {
+                    "title": "创始人兼全栈开发人员",
+                    "description": "2023年1月，我创立了Axolutions，这是一家专注于软件开发和大型项目解决方案的咨询公司。在过去的两年中，我担任全栈开发人员，拥有全渠道客户服务系统、企业管理软件、电子商务、支付集成和人工智能应用方面的经验。",
+                    "tags": [
+                        "A.I",
+                        "Vue",
+                        "Nuxt",
+                        "Ruby on Rails",
+                        "React",
+                        "Node",
+                        "TypeScript",
+                        "Amazon Web Services"
+                    ]
+                },
+                "pt": {
+                    "title": "Fundador e desenvolvedor Full-Stack",
+                    "description": "Em janeiro de 2023, fundei a Axolutions, uma consultoria especializada em desenvolvimento de software e soluções para projetos de grande escala. Nos últimos dois anos, atuo como desenvolvedor full-stack, com experiência em sistemas de atendimento omnichannel, softwares de gestão empresarial, E-Commerce, integração de pagamentos e aplicações de inteligência artificial.",
+                    "tags": [
+                        "A.I",
+                        "Vue",
+                        "Nuxt",
+                        "Ruby on Rails",
+                        "React",
+                        "Node",
+                        "TypeScript",
+                        "Amazon Web Services"
+                    ]
+                }
+            }
+        }
+    ]
+}
