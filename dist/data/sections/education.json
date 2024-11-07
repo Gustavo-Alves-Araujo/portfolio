@@ -1,0 +1,116 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory."
+        },
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica."
+        },
+        "fr": {
+            "title": "Parcours <span class='text-primary'>Éducatif</span>",
+            "description": "Un aperçu de mon parcours académique."
+        },
+        "zh": {
+            "title": "<span class='text-primary'>教育</span> 背景",
+            "description": "一瞥我的学术轨迹和成就。"
+        },
+        "pt": {
+            "title": "Formação <span class='text-primary'> acadêmica </span>",
+            "description": "Um vislumbre da minha trajetória educacional."
+        }
+    },
+    "items": [
+        {
+            "id": "online_course_udacity",
+            "place": "@link{places.udacity}",
+            "period": [
+                "2020/01",
+                "2022/12"
+            ],
+            "locales": {
+                "pt": {
+                    "title": "Técnico em Desenvolvimento de Sistemas",
+                    "description": "Formado pela ETEC como técnico em DS, onde a formação me proporcionou uma base sólida em programação web e mobile, e foi o que me fez brilhar os olhos para me tornar um desenvolvedor."
+                },
+                "en": {
+                    "title": "Systems Development Technician",
+                    "description": "Graduated as a Systems Development Technician from ETEC. This program provided me with a solid foundation in web and mobile programming, sparking my passion for development."
+                },
+                "es": {
+                    "title": "Técnico en Desarrollo de Sistemas",
+                    "description": "Graduado en ETEC como técnico en Desarrollo de Sistemas, donde la formación me brindó una base sólida en programación web y móvil, y despertó en mí la pasión por convertirme en desarrollador."
+                },
+                "fr": {
+                    "title": "Technicien en Développement de Systèmes",
+                    "description": "Diplômé de l'ETEC en tant que technicien en Développement de Systèmes, où la formation m'a fourni une solide base en programmation web et mobile, et a éveillé ma passion pour devenir développeur."
+                },
+                "zh": {
+                    "title": "系统开发技术员",
+                    "description": "毕业于 ETEC 系统开发技术员专业，课程为我打下了扎实的网络和移动编程基础，激发了我成为开发人员的热情。"
+                }
+            }
+        },
+        {
+            "id": "bachelor_harvard",
+            "place": "@link{places.paris}",
+            "period": [
+                "2023/05",
+                "2025/07"
+            ],
+            "locales": {
+                "pt": {
+                    "title": "Bacharelado Interdisciplinar em Ciência e Tecnologia",
+                    "description": "Graduando no BC&T, tenho a oportunidade de colocar em prática todo o conteúdo teórico aprendido nas disciplinas de ciência da computação, desenvolvendo projetos que se relacionam diretamente com diversas áreas de estudo, como biotecnologia, neurociência e ciências sociais."
+                },
+                "en": {
+                    "title": "Interdisciplinary Bachelor's in Science and Technology",
+                    "description": "As a student in the Bachelor's program in Science and Technology, I have the opportunity to apply theoretical knowledge from my Computer Science courses to interdisciplinary projects, spanning fields such as biotechnology, neuroscience, and social sciences."
+                },
+                "es": {
+                    "title": "Licenciatura Interdisciplinaria en Ciencia y Tecnología",
+                    "description": "Como estudiante de la Licenciatura en Ciencia y Tecnología, tengo la oportunidad de aplicar el conocimiento teórico de mis cursos de informática en proyectos que se conectan directamente con diversas áreas de estudio, como biotecnología, neurociencia y ciencias sociales."
+                },
+                "fr": {
+                    "title": "Licence Interdisciplinaire en Sciences et Technologie",
+                    "description": "En tant qu'étudiant dans le programme de Licence en Sciences et Technologie, j'ai l'occasion de mettre en pratique les connaissances théoriques acquises en informatique dans des projets en lien direct avec divers domaines, comme la biotechnologie, les neurosciences et les sciences sociales."
+                },
+                "zh": {
+                    "title": "跨学科科学与技术学士学位",
+                    "description": "作为科学与技术学士学位的学生，我有机会将计算机科学课程中的理论知识应用于与生物技术、神经科学和社会科学等多个领域交叉的项目中。"
+                }
+            }
+        },
+        {
+            "id": "masters_paris",
+            "place": "@link{places.paris}",
+            "period": [
+                "2023/05",
+                "2026/07"
+            ],
+            "locales": {
+                "pt": {
+                    "title": "Bacharelado em Ciência da Computação",
+                    "description": "Cursando Ciência da Computação na UFABC, que me proporciona uma sólida formação em algoritmos, estrutura de dados, paradigmas da programação, inteligência artificial e dados."
+                },
+                "en": {
+                    "title": "Bachelor's in Computer Science",
+                    "description": "Studying Computer Science at UFABC, where I am gaining a strong foundation in algorithms, data structures, programming paradigms, artificial intelligence, and data science."
+                },
+                "es": {
+                    "title": "Licenciatura en Ciencias de la Computación",
+                    "description": "Cursando Ciencias de la Computación en la UFABC, que me proporciona una sólida formación en algoritmos, estructuras de datos, paradigmas de programación, inteligencia artificial y ciencia de datos."
+                },
+                "fr": {
+                    "title": "Licence en Informatique",
+                    "description": "Étudiant en Informatique à l'UFABC, où je bénéficie d'une solide formation en algorithmes, structures de données, paradigmes de programmation, intelligence artificielle et science des données."
+                },
+                "zh": {
+                    "title": "计算机科学学士学位",
+                    "description": "在 UFABC 攻读计算机科学学士学位，为我在算法、数据结构、编程范式、人工智能和数据科学方面提供了坚实的基础。"
+                }
+            }
+        }
+    ]
+}

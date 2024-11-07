@@ -1,0 +1,508 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "fr": {
+            "title": "Ensemble de <span class='text-primary'>Compétences</span>",
+            "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:"
+        },
+        "zh": {
+            "title": "<span class='text-primary'>技能</span> 集",
+            "description": "探索我所掌握和发展的多样技能:",
+            "robert": "robert chines"
+        },
+        "pt": {
+            "title": "Conjunto de <span class='text-primary'> habilidades </span>",
+            "description": "Explorando a diversa gama de habilidades que adquiri e desenvolvi:",
+            "robert": "robert"
+        }
+    },
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {
+                    "title": null
+                }
+            }
+        },
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "pt": {
+                    "title": "Linguagens"
+                },
+                "en": {
+                    "title": "Programming"
+                },
+                "es": {
+                    "title": "Programación"
+                },
+                "fr": {
+                    "title": "Programmation"
+                },
+                "zh": {
+                    "title": "编程"
+                }
+            }
+        },
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {
+                "0": "beginner",
+                "20": "rookie",
+                "40": "intermediate",
+                "60": "advanced",
+                "80": "fluent",
+                "100": "native"
+            },
+            "faIcon": "fa fa-language",
+            "locales": {
+                "pt": {
+                    "title": "Idiomas"
+                },
+                "en": {
+                    "title": "Languages"
+                },
+                "es": {
+                    "title": "Idiomas"
+                },
+                "fr": {
+                    "title": "Langues"
+                },
+                "zh": {
+                    "title": "语言"
+                }
+            }
+        }
+    ],
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-laptop-code",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Desenvolvimento Front-End",
+                        "description": "Experiência em construir interfaces de usuário intuitivas e reativas usando frameworks modernos como React e Vue.js, focando em acessibilidade e performance."
+                    },
+                    "en": {
+                        "title": "Front-End Development",
+                        "description": "Experienced in building intuitive and reactive user interfaces using modern frameworks like React and Vue.js, focusing on accessibility and performance."
+                    },
+                    "es": {
+                        "title": "Desarrollo Front-End",
+                        "description": "Experiencia en construir interfaces de usuario intuitivas y reactivas utilizando frameworks modernos como React y Vue.js, con un enfoque en accesibilidad y rendimiento."
+                    },
+                    "fr": {
+                        "title": "Développement Front-End",
+                        "description": "Expérience dans la création d'interfaces utilisateurs intuitives et réactives en utilisant des frameworks modernes comme React et Vue.js, en se concentrant sur l'accessibilité et la performance."
+                    },
+                    "zh": {
+                        "title": "前端开发",
+                        "description": "熟练使用现代框架（如React和Vue.js）构建直观且响应迅速的用户界面，注重可访问性和性能。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-paint-roller",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Layouts Responsivos",
+                        "description": "Proficiência na criação de layouts adaptáveis para diferentes dispositivos, garantindo uma experiência de usuário otimizada e consistente em telas de diversos tamanhos."
+                    },
+                    "en": {
+                        "title": "Responsive Layouts",
+                        "description": "Proficient in create adaptable layouts for various devices, ensuring a consistent and optimized user experience across different screen sizes."
+                    },
+                    "es": {
+                        "title": "Diseños Responsivos",
+                        "description": "Experto en crear diseños adaptables para diversos dispositivos, asegurando una experiencia de usuario optimizada y consistente en diferentes tamaños de pantalla."
+                    },
+                    "fr": {
+                        "title": "Mises en Page Réactives",
+                        "description": "Compétent pour créer des mises en page adaptables pour divers appareils, garantissant une expérience utilisateur optimisée et cohérente sur différents formats d'écran."
+                    },
+                    "zh": {
+                        "title": "响应式布局",
+                        "description": "擅长为不同设备创建适应性布局，确保在各种屏幕尺寸上提供一致且优化的用户体验。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-server",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Desenvolvimento Back-End",
+                        "description": "Conhecimento sólido na implementação de APIs RESTful e GraphQL com Node.js e Ruby on Rails, garantindo segurança, escalabilidade e integração eficiente com bancos de dados."
+                    },
+                    "en": {
+                        "title": "Back-End Development",
+                        "description": "Solid knowledge in implementing RESTful and GraphQL APIs using Node.js and Ruby on Rails, ensuring security, scalability, and efficient database integration."
+                    },
+                    "es": {
+                        "title": "Desarrollo Back-End",
+                        "description": "Conocimiento sólido en la implementación de APIs RESTful y GraphQL utilizando Node.js y Ruby on Rails, garantizando seguridad, escalabilidad e integración eficiente con bases de datos."
+                    },
+                    "fr": {
+                        "title": "Développement Back-End",
+                        "description": "Connaissances solides en implémentation d'APIs RESTful et GraphQL avec Node.js et Ruby on Rails, garantissant la sécurité, l'évolutivité et une intégration efficace avec les bases de données."
+                    },
+                    "zh": {
+                        "title": "后端开发",
+                        "description": "熟练掌握使用Node.js和Ruby on Rails实现RESTful和GraphQL API，确保安全性、可扩展性和高效的数据库集成。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-check-double",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Teste e Qualidade de Código",
+                        "description": "Aprimoramento da qualidade do código por meio de testes automatizados, incluindo testes unitários, de integração e de usabilidade."
+                    },
+                    "en": {
+                        "title": "Testing and Code Quality",
+                        "description": "Enhancing code quality through automated testing, including unit tests, integration tests, and usability testing."
+                    },
+                    "es": {
+                        "title": "Pruebas y Calidad del Código",
+                        "description": "Mejora de la calidad del código mediante pruebas automatizadas, incluyendo pruebas unitarias, de integración y de usabilidad."
+                    },
+                    "fr": {
+                        "title": "Tests et Qualité du Code",
+                        "description": "Amélioration de la qualité du code grâce à des tests automatisés, y compris des tests unitaires, d'intégration et d'utilisabilité."
+                    },
+                    "zh": {
+                        "title": "测试和代码质量",
+                        "description": "通过自动化测试提升代码质量，包括单元测试、集成测试和可用性测试。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-sitemap",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Arquitetura de Software",
+                        "description": "Habilidade em projetar a estrutura de aplicações escaláveis e eficientes, considerando boas práticas de design de sistemas e arquitetura limpa."
+                    },
+                    "en": {
+                        "title": "Software Architecture",
+                        "description": "Skilled in designing scalable and efficient application structures, with a focus on clean architecture and best system design practices."
+                    },
+                    "es": {
+                        "title": "Arquitectura de Software",
+                        "description": "Habilidad en diseñar estructuras de aplicaciones escalables y eficientes, considerando buenas prácticas de diseño de sistemas y arquitectura limpia."
+                    },
+                    "fr": {
+                        "title": "Architecture Logicielle",
+                        "description": "Compétence dans la conception de structures d'applications évolutives et efficaces, en mettant l'accent sur les bonnes pratiques de conception de systèmes et une architecture propre."
+                    },
+                    "zh": {
+                        "title": "软件架构",
+                        "description": "擅长设计可扩展且高效的应用程序结构，注重清晰架构和系统设计的最佳实践。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-mobile-alt",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Desenvolvimento de Aplicações Mobile",
+                        "description": "Experiência em criar aplicativos móveis multiplataforma, garantindo desempenho nativo e interfaces que proporcionam uma ótima experiência para o usuário em iOS e Android."
+                    },
+                    "en": {
+                        "title": "Mobile App Development",
+                        "description": "Experience in building cross-platform mobile applications, ensuring native performance and delivering excellent user experiences on iOS and Android."
+                    },
+                    "es": {
+                        "title": "Desarrollo de Aplicaciones Móviles",
+                        "description": "Experiencia en crear aplicaciones móviles multiplataforma, garantizando un rendimiento nativo y proporcionando una excelente experiencia de usuario en iOS y Android."
+                    },
+                    "fr": {
+                        "title": "Développement d'Applications Mobiles",
+                        "description": "Expérience dans la création d'applications mobiles multiplateformes, garantissant des performances natives et une excellente expérience utilisateur sur iOS et Android."
+                    },
+                    "zh": {
+                        "title": "移动应用开发",
+                        "description": "具有开发跨平台移动应用的经验，确保原生性能，并在iOS和Android上提供出色的用户体验。"
+                    }
+                }
+            }
+        ],
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 95,
+                "locales": {
+                    "en": {
+                        "title": "HTML 5",
+                        "description": "Experience Time: 5 years"
+                    },
+                    "es": {
+                        "title": "HTML 5",
+                        "description": "Experiencia: 5 años"
+                    },
+                    "fr": {
+                        "title": "HTML 5",
+                        "description": "Expérience : 5 ans"
+                    },
+                    "zh": {
+                        "title": "HTML 5",
+                        "description": "经验时长：5年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 90,
+                "locales": {
+                    "en": {
+                        "title": "CSS 3",
+                        "description": "Experience Time: 3 years"
+                    },
+                    "es": {
+                        "title": "CSS 3",
+                        "description": "Experiencia: 3 años"
+                    },
+                    "fr": {
+                        "title": "CSS 3",
+                        "description": "Expérience : 3 ans"
+                    },
+                    "zh": {
+                        "title": "CSS 3",
+                        "description": "经验时长：3年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-sass",
+                "value": 65,
+                "locales": {
+                    "en": {
+                        "title": "Sass/Less",
+                        "description": "Experience Time: 2 years"
+                    },
+                    "es": {
+                        "title": "Sass/Less",
+                        "description": "Experiencia: 2 años"
+                    },
+                    "fr": {
+                        "title": "Sass/Less",
+                        "description": "Expérience : 2 ans"
+                    },
+                    "zh": {
+                        "title": "Sass/Less",
+                        "description": "经验时长：2年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
+                    "en": {
+                        "title": "JavaScript",
+                        "description": "Experience Time: 3 years"
+                    },
+                    "es": {
+                        "title": "JavaScript",
+                        "description": "Experiencia: 3 años"
+                    },
+                    "fr": {
+                        "title": "JavaScript",
+                        "description": "Expérience : 3 ans"
+                    },
+                    "zh": {
+                        "title": "JavaScript",
+                        "description": "经验时长：3年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 100,
+                "locales": {
+                    "en": {
+                        "title": "Vue 3",
+                        "description": "Experience Time: 2 years"
+                    },
+                    "es": {
+                        "title": "Vue 3",
+                        "description": "Experiencia: 2 años"
+                    },
+                    "fr": {
+                        "title": "Vue 3",
+                        "description": "Expérience : 2 ans"
+                    },
+                    "zh": {
+                        "title": "Vue 3",
+                        "description": "经验时长：2年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-react",
+                "value": 75,
+                "locales": {
+                    "en": {
+                        "title": "React",
+                        "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"
+                    },
+                    "es": {
+                        "title": "React",
+                        "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"
+                    },
+                    "fr": {
+                        "title": "React",
+                        "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"
+                    },
+                    "zh": {
+                        "title": "React",
+                        "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"
+                    }
+                }
+            }
+        ],
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/pt.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {
+                        "title": "Brazilian Portuguese",
+                        "description": "Native speaker with excellent communication and writing skills."
+                    },
+                    "es": {
+                        "title": "Portugués Brasileño",
+                        "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."
+                    },
+                    "fr": {
+                        "title": "Portugais Brésilien",
+                        "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."
+                    },
+                    "zh": {
+                        "title": "巴西葡萄牙语",
+                        "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。"
+                    },
+                    "pt":{
+                        "title": "Portugês",
+                        "description": "Língua materna, com excelente comunicação e escrita."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {
+                        "title": "English",
+                        "description": "Excellent communication and writing skills; proficient in both formal and informal settings. Confident in professional and casual interactions."
+                    },
+                    "es": {
+                        "title": "Inglés",
+                        "description": "Excelentes habilidades de comunicación y escritura; competente en entornos formales e informales. Confiado en interacciones profesionales y casuales."
+                    },
+                    "fr": {
+                        "title": "Anglais",
+                        "description": "Excellentes compétences en communication et en écriture; compétent dans les contextes formels et informels. Confiant dans les interactions professionnelles et informelles."
+                    },
+                    "zh": {
+                        "title": "英语",
+                        "description": "具备出色的沟通和写作能力，精通正式和非正式场合。自信于专业和日常交流中。"
+                    },
+                    "pt": {
+                        "title": "Inglês",
+                        "description": "Excelente comunicação e escrita, proficiente em contextos formais e informais. Confiante em interações profissionais e casuais."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": "images/flags/es.png",
+                "faIcon": null,
+                "value": 50,
+                "locales": {
+                    "en": {
+                        "title": "Spanish",
+                        "description": "Intermediate proficiency in Spanish; can hold conversations, write, and understand text."
+                    },
+                    "es": {
+                        "title": "Español",
+                        "description": "Nivel intermedio de español; capaz de mantener conversaciones, escribir y comprender textos."
+                    },
+                    "fr": {
+                        "title": "Espagnol",
+                        "description": "Niveau intermédiaire en espagnol ; capable de tenir des conversations, d'écrire et de comprendre des textes."
+                    },
+                    "zh": {
+                        "title": "西班牙语",
+                        "description": "西班牙语中级水平；能够进行对话、写作并理解文本。"
+                    },
+                    "pt": {
+                        "title": "Espanhol",
+                        "description": "Proficiência intermediária em espanhol. Capaz de manter conversas, escrever e entender textos."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": "images/flags/fr.png",
+                "faIcon": null,
+                "value": 10,
+                "locales": {
+                    "en": {
+                        "title": "French",
+                        "description": "Beginner proficiency in French; can understand basic phrases and expressions, and engage in simple conversations. Learning  and improving"
+                    },
+                    "es": {
+                        "title": "Francés",
+                        "description": "Nivel principiante en francés; capaz de comprender frases y expresiones básicas, y participar en conversaciones simples. aprendiendo y mejorando"
+                    },
+                    "fr": {
+                        "title": "Français",
+                        "description": "Niveau débutant en français ; capable de comprendre des phrases et expressions de base, et de participer à des conversations simples. En cours d'apprentissage et d'amélioration."
+                    },
+                    "zh": {
+                        "title": "法语",
+                        "description": "法语初级水平；能够理解基本短语和表达，进行简单的对话。"
+                    },
+                    "pt": {
+                        "title": "Francês",
+                        "description": "Proficiência iniciante em francês. Capaz de entender frases e expressões básicas, e participar de conversas simples."
+                    }
+                }
+            }
+        ]
+    }
+}

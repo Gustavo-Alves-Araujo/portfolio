@@ -1,0 +1,47 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>portfolio!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "I began my programming journey in 2020, little did I know it would become a passion that transformed my professional life! I have worked as a Full-Stack Developer with experience in omnichannel systems, enterprise resource planning (ERP) softwares, E-Commerce, payment integration, and artificial intelligence applications."
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>portafolio!</span>",
+            "welcomeShort": "¡Bienvenido(a)!",
+            "bio": "Inicié mi camino en la programación en 2020, sin saber que se convertiría en una pasión que transformaría mi trayectoria profesional. Desde entonces, he trabajado como Programador Full-Stack, con experiencia en sistemas omnicanal de atención al cliente, software de gestión empresarial (ERP), e-commerce, integración de pagos y aplicaciones de inteligencia artificial."
+        },
+
+        "fr": {
+            "welcome": "Bienvenue sur mon <span class='text-primary'>portfolio!</span>",
+            "welcomeShort": "Bienvenue!",
+            "bio": "J'ai commencé mon parcours en programmation en 2020, sans savoir que cela deviendrait une passion qui transformerait ma trajectoire professionnelle ! Depuis, j'ai travaillé en tant que développeur Full-Stack avec une expérience dans les systèmes d'assistance omnicanal, les logiciels de gestion d'entreprise (ERP), le commerce électronique, l'intégration de paiements et les applications d'intelligence artificielle."
+        },
+
+        "zh": {
+            "welcome": "欢迎来到我的<span class='text-primary'>作品集</span>！",
+            "welcomeShort": "欢迎!",
+            "bio": "我在2020年开始了我的编程之旅，当时并不知道这将成为改变我职业道路的热情！自那以后，我一直担任全栈开发人员，拥有全渠道支持系统、企业资源计划（ERP）软件、电子商务、支付集成和人工智能应用方面的经验。"
+        },
+        "pt": {
+            "welcome": "Bem vindo ao meu <span class='text-primary'> portfólio!</span>",
+            "welcomeShort": "Bem vindo!",
+            "bio": "Iniciei minha jornada na programação em 2020, sem saber que seria uma paixão que transformaria a minha trajetória profissional! Desde então atuo como Desenvolvedor Full-Stack, com experiência em sistemas de atendimento omnichannel, softwares de gestão empresarial, E-Commerce, integração de pagamentos e aplicações de inteligência artificial."
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.instagram}",
+
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}
